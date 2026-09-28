@@ -1,0 +1,11 @@
+{
+  "name": "Project X-Man",
+  "short_name": "X-Man",
+  "description": "Minimal weight and daily progress tracker.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#08090b",
+  "background_color": "#08090b"
+}
